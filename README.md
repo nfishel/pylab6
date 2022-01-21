@@ -19,7 +19,7 @@ in the terminal window.
 
 #step 1 in main program area - start game
 number_of_dice = int(input('Enter the number of dice: '))
-ready = input('Ready to start? Hit any key to continue.'))
+ready = input('Ready to start? Hit any key to continue.')
 
 ```
 {% endspoiler %}
