@@ -7,17 +7,17 @@ Create a new file called `dicegame.py` and add a comment at the top. Ask the use
 Don't forget to cast the `number_of_dice` to an `int`
 {% endspoiler %}
 
-Run your program by typing:
-```python
+Run your program by typing the command below in the terminal window
+```bash
 python dicegame.py
 ```
-in the terminal window.
+
 
 {% spoiler "Soluttion" %}
 ```python
 # dice game
 
-#step 1 in main program area - start game
+# step 1 in main program area - start game
 number_of_dice = int(input('Enter the number of dice: '))
 ready = input('Ready to start? Hit any key to continue.')
 
@@ -25,13 +25,13 @@ ready = input('Ready to start? Hit any key to continue.')
 {% endspoiler %}
 
 {% next "Step 2" %}
-# Create a Function to Roll the Dice
+# Step 2: Create a Function to Roll the Dice
 {% next "Step 3" %}
-# Decide a Winner
+# Step 3: Decide a Winner
 {% next "Step 4" %}
-# Ask tthe User to Hold or Roll Again
+# Step 4: Ask tthe User to Hold or Roll Again
 {% next "Step 5" %}
-# Create a Function that Rerolls
+# Step 5: Create a Function that Rerolls
 {% next "Step 6" %}
 
 {% next "Step 7" %}
