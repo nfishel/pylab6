@@ -25,4 +25,14 @@ ready = input('Ready to start? Hit any key to continue.')
 {% endspoiler %}
 
 {% next "Step 2" %}
+# Create a Function to Roll the Dice
+{% next "Step 3" %}
+# Decide a Winner
+{% next "Step 4" %}
+# Ask tthe User to Hold or Roll Again
+{% next "Step 5" %}
+# Create a Function that Rerolls
+{% next "Step 6" %}
+
+{% next "Step 7" %}
 
