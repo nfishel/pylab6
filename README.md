@@ -1,5 +1,4 @@
-# pylab6
-PyLab6 Dice Game
+# PyLab6 Dice Game
 
 # Step 1: Have the User Select the Number of Dice 🎲
 Create a new file called `dicegame.py` and add a comment at the top. Ask the user for the number of dice to be used in this game and store it in a variable called `number_of_dice`. Before starting the game, ask the user to hit a key when ready for the game.
